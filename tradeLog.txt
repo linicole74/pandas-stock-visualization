@@ -1,0 +1,309 @@
+----- start -----
+
+buy at index 148
+buying price: $2777.869
+money: $1666.393
+stock: 3
+
+close at index 401
+closing price: $2776.87
+money: $9997.003
+stock: 0
+
+buy at index 180
+buying price: $2781.069
+money: $1653.7960000000003
+stock: 3
+
+close at index 449
+closing price: $2779.37
+money: $9991.906
+stock: 0
+
+buy at index 300
+buying price: $2778.069
+money: $1657.6990000000005
+stock: 3
+
+close at index 526
+closing price: $2778.369
+money: $9992.806
+stock: 0
+
+buy at index 449
+buying price: $2779.37
+money: $1654.696
+stock: 3
+
+close at index 661
+closing price: $2771.169
+money: $9968.203
+stock: 0
+
+buy at index 458
+buying price: $2779.57
+money: $1629.4929999999986
+stock: 3
+
+close at index 693
+closing price: $2773.669
+money: $9950.499999999998
+stock: 0
+
+buy at index 471
+buying price: $2780.07
+money: $1610.2899999999972
+stock: 3
+
+close at index 709
+closing price: $2769.97
+money: $9920.199999999997
+stock: 0
+
+buy at index 496
+buying price: $2780.87
+money: $1577.5899999999965
+stock: 3
+
+close at index 726
+closing price: $2765.67
+money: $9874.599999999997
+stock: 0
+
+buy at index 547
+buying price: $2781.57
+money: $1529.8899999999958
+stock: 3
+
+close at index 789
+closing price: $2771.97
+money: $9845.799999999996
+stock: 0
+
+buy at index 768
+buying price: $2766.469
+money: $1546.3929999999964
+stock: 3
+
+close at index 972
+closing price: $2743.269
+money: $9776.199999999995
+stock: 0
+
+buy at index 789
+buying price: $2771.97
+money: $1460.2899999999954
+stock: 3
+
+close at index 999
+closing price: $2743.269
+money: $9690.096999999994
+stock: 0
+final profit: -3.0990%
+
+----- start -----
+
+buy at index 148
+buying price: $2777.869
+money: $1666.393
+stock: 3
+
+close at index 401
+closing price: $2776.87
+money: $9997.003
+stock: 0
+
+buy at index 180
+buying price: $2781.069
+money: $1653.7960000000003
+stock: 3
+
+close at index 449
+closing price: $2779.37
+money: $9991.906
+stock: 0
+
+buy at index 300
+buying price: $2778.069
+money: $1657.6990000000005
+stock: 3
+
+close at index 526
+closing price: $2778.369
+money: $9992.806
+stock: 0
+
+buy at index 449
+buying price: $2779.37
+money: $1654.696
+stock: 3
+
+close at index 661
+closing price: $2771.169
+money: $9968.203
+stock: 0
+
+buy at index 458
+buying price: $2779.57
+money: $1629.4929999999986
+stock: 3
+
+close at index 693
+closing price: $2773.669
+money: $9950.499999999998
+stock: 0
+
+buy at index 471
+buying price: $2780.07
+money: $1610.2899999999972
+stock: 3
+
+close at index 709
+closing price: $2769.97
+money: $9920.199999999997
+stock: 0
+
+buy at index 496
+buying price: $2780.87
+money: $1577.5899999999965
+stock: 3
+
+close at index 726
+closing price: $2765.67
+money: $9874.599999999997
+stock: 0
+
+buy at index 547
+buying price: $2781.57
+money: $1529.8899999999958
+stock: 3
+
+close at index 789
+closing price: $2771.97
+money: $9845.799999999996
+stock: 0
+
+buy at index 768
+buying price: $2766.469
+money: $1546.3929999999964
+stock: 3
+
+close at index 972
+closing price: $2743.269
+money: $9776.199999999995
+stock: 0
+
+buy at index 789
+buying price: $2771.97
+money: $1460.2899999999954
+stock: 3
+
+close at index 999
+closing price: $2743.269
+money: $9690.096999999994
+stock: 0
+final profit: -3.0990%
+
+----- start -----
+
+buy at index 148
+buying price: $2777.869
+money: $1666.393
+stock: 3
+
+close at index 401
+closing price: $2776.87
+money: $9997.003
+stock: 0
+
+buy at index 180
+buying price: $2781.069
+money: $1653.7960000000003
+stock: 3
+
+close at index 449
+closing price: $2779.37
+money: $9991.906
+stock: 0
+
+buy at index 300
+buying price: $2778.069
+money: $1657.6990000000005
+stock: 3
+
+close at index 526
+closing price: $2778.369
+money: $9992.806
+stock: 0
+
+buy at index 449
+buying price: $2779.37
+money: $1654.696
+stock: 3
+
+close at index 661
+closing price: $2771.169
+money: $9968.203
+stock: 0
+
+buy at index 458
+buying price: $2779.57
+money: $1629.4929999999986
+stock: 3
+
+close at index 693
+closing price: $2773.669
+money: $9950.499999999998
+stock: 0
+
+buy at index 471
+buying price: $2780.07
+money: $1610.2899999999972
+stock: 3
+
+close at index 709
+closing price: $2769.97
+money: $9920.199999999997
+stock: 0
+
+buy at index 496
+buying price: $2780.87
+money: $1577.5899999999965
+stock: 3
+
+close at index 726
+closing price: $2765.67
+money: $9874.599999999997
+stock: 0
+
+buy at index 547
+buying price: $2781.57
+money: $1529.8899999999958
+stock: 3
+
+close at index 789
+closing price: $2771.97
+money: $9845.799999999996
+stock: 0
+
+buy at index 768
+buying price: $2766.469
+money: $1546.3929999999964
+stock: 3
+
+close at index 972
+closing price: $2743.269
+money: $9776.199999999995
+stock: 0
+
+buy at index 789
+buying price: $2771.97
+money: $1460.2899999999954
+stock: 3
+
+close at index 999
+closing price: $2743.269
+money: $9690.096999999994
+stock: 0
+final profit: -3.0990%
+
