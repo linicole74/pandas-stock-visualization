@@ -155,6 +155,6 @@ def convertTimestamps(timestamp):
     # year, month, day, hour, minute, second
     theDatetime = datetime(int(timestamp[6:10]), int(timestamp[3:5]), int(timestamp[:2]), int(timestamp[11:13]), int(timestamp[14:16]));
     return dates.date2num(theDatetime);
-
+ 
 if (__name__=="__main__"):
     main();
