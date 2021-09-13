@@ -94,7 +94,7 @@ def main():
         
         # Make an xtick once every 60 data points from 0 to the length of bidData and label it with the corresponding bidData.
         # This used to work and I'm not sure how to fix it.
-        plt.xticks(np.arange(0, bidData["Local time"].size, 60), bidData["Local time"], rotation = 90);
+        #plt.xticks(np.arange(0, bidData["Local time"].size, 60), bidData["Local time"], rotation = 90);
         
         # Graph the candlestick wicks.
         wicks = ax.bar(x=bidData["Local time"], height=bidData["High"] - bidData["Low"], width = 0.0002, bottom = bidData["Low"], color = bidData["Color"]);
