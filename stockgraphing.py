@@ -1,8 +1,4 @@
 '''
-Nicole Li
-May 10, 2021
-Embedded Coding
-Spring Master Project
 main
 '''
 
